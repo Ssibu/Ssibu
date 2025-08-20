@@ -2,9 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="center">
-<a href="https://github.com/ssibu/ssibu/tree/output/snake.svg">
-<img src="https://github.com/ssibu/ssibu/blob/output/snake.svg" alt="Snake animation" />
-</a>
+<img src="https://raw.githubusercontent.com/ssibu/ssibu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
@@ -56,13 +54,13 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ssibu&show_icons=true&locale=en" alt="ssibu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssibu&show_icons=true&locale=en&layout=compact" alt="ssibu" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssibu&show_icons=true&locale=en&layout=compact" alt="ssibu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssibu&show_icons=true&theme=radical" alt="ssibu" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssibu&" alt="ssibu" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssibu&theme=dark" alt="ssibu" />
 </p>
 
 🤝 Connect with Me
@@ -73,7 +71,8 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
 
 Google Search Suggestions
 Display of Search Suggestions is required when using Grounding with Google Search. Learn more
-inspirational professional GitHub profile README MERN stack developer
-how to create a professional GitHub profile README
-cool things to add to GitHub profile README
-GitHub profile README best practices for developers
+github profile readme snake animation not working
+how to generate github contribution snake animation
+cool github stats for readme
+github profile readme generator
+add snake animation to github readme
