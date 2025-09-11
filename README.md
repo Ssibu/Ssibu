@@ -28,7 +28,7 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
 
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" style="margin:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" style="margin:10px;"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin:10px;"/>
@@ -100,17 +100,18 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
 <p align="left">
   <!-- Adobe After Effects -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/design/adobe-after-effects-3g32z7f230vfwxxpfwk7g.png" alt="After Effects" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="48" height="48" style="margin:10px;"/>
   </a>
 
   <!-- DaVinci Resolve -->
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DaVinci_Resolve_17_logo.svg/1024px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/davinciresolve.svg" alt="DaVinci Resolve" width="48" height="48" style="margin:10px;"/>
   </a>
 
   <!-- Adobe Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="48" height="48" style="margin:10px;"/>
+  </a>
   </a>
 </p>
 
