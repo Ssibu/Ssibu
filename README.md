@@ -96,6 +96,26 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="48" height="48" style="margin:10px;"/>
   </a>
+  <!-- Video & Motion Design Tools -->
+<div align="center">
+
+  <!-- Adobe After Effects -->
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="48" height="48" style="margin:10px;"/>
+  </a>
+
+  <!-- DaVinci Resolve -->
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/D/davinci-resolve-logo-70B4B3A2FF-seeklogo.com.png" alt="DaVinci Resolve" width="48" height="48" style="margin:10px;"/>
+  </a>
+
+  <!-- Adobe Premiere Pro -->
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-plain.svg" alt="Premiere Pro" width="48" height="48" style="margin:10px;"/>
+  </a>
+
+</div>
+
   <!-- 🛠️ Tech Stack & Tools -->
 
 
