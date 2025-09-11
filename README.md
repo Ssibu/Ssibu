@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ssibu/ssibu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
@@ -10,23 +10,23 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
 
 🚀 What I'm Up To
 
-🔭 I’m currently working on a Cloud Storage Web App that allows users to upload, store, and manage their files securely.
+🔭 I’m currently working on ERP, CRM, HRMS, and Cloud Storage web applications that enable organizations to manage their operations, users, and data efficiently and securely.
 
 🌱 I’m sharpening my skills in ReactJs, NodeJs, ExpressJs, MongoDB, MVC architecture, Authentication and Authorization, Role-Based Access Control (RBAC), Redis for caching and session storage, CI/CD pipelines, Docker & Containerization, and WebSockets.
 
 👯 I’m looking to collaborate on open-source projects related to the MERN stack or other interesting web technologies.
 
-💬 Ask me about React and front-end development. I'm always happy to share my knowledge.
+💬 Ask me about full-stack development — from crafting responsive UIs to building robust backend systems.
 
 📫 How to reach me: sibu25456@gmail.com
 
-⚡ Fun fact: I am a manual replicator.
+⚡ Fun fact: I don’t make bugs… I create unexpected features
 
 🛠️ Languages and Tools:
 <!-- 🛠️ Tech Stack & Tools -->
 <div align="center">
 
-  <!-- Cloud & DevOps -->
+  <!-- 🌩️ Cloud & DevOps -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" style="margin:10px;"/>
   </a>
@@ -37,7 +37,7 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48" style="margin:10px;"/>
   </a>
 
-  <!-- Backend -->
+  <!-- ⚙️ Backend -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin:10px;"/>
   </a>
@@ -57,7 +57,7 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="Mongoose" width="48" height="48" style="margin:10px;"/>
   </a>
 
-  <!-- Frontend -->
+  <!-- 🎨 Frontend -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin:10px;"/>
   </a>
@@ -83,7 +83,7 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin:10px;"/>
   </a>
 
-  <!-- Design & Tools -->
+  <!-- 🖌️ Design Tools -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin:10px;"/>
   </a>
@@ -91,35 +91,23 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="48" height="48" style="margin:10px;"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="48" height="48" style="margin:10px;"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" 
+       alt="Photoshop" width="48" height="48" style="margin:10px;"/>
+</a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="48" height="48" style="margin:10px;"/>
   </a>
-  <!-- Video & Motion Design Tools -->
-<p align="left">
-  <!-- Adobe After Effects -->
+
+  <!-- 🎬 Video & Motion -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="48" height="48" style="margin:10px;"/>
   </a>
-
-  <!-- DaVinci Resolve -->
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/davinciresolve.svg" alt="DaVinci Resolve" width="48" height="48" style="margin:10px;"/>
-  </a>
-
-  <!-- Adobe Premiere Pro -->
+  
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="48" height="48" style="margin:10px;"/>
   </a>
-  </a>
-</p>
 
-
-  <!-- 🛠️ Tech Stack & Tools -->
-
-
-
+  <!-- 🧰 Tools -->
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="48" height="48" style="margin:10px;"/>
   </a>
@@ -127,7 +115,7 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin:10px;"/>
   </a>
 
-  <!-- Programming Languages -->
+  <!-- 💻 Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin:10px;"/>
   </a>
@@ -139,6 +127,7 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
   </a>
 
 </div>
+
 
 
 📊 My GitHub Stats
