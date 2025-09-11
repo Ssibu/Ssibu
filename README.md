@@ -97,24 +97,23 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="48" height="48" style="margin:10px;"/>
   </a>
   <!-- Video & Motion Design Tools -->
-<div align="center">
-
+<p align="left">
   <!-- Adobe After Effects -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="48" height="48" style="margin:10px;"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/design/adobe-after-effects-3g32z7f230vfwxxpfwk7g.png" alt="After Effects" width="48" height="48"/>
   </a>
 
   <!-- DaVinci Resolve -->
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/D/davinci-resolve-logo-70B4B3A2FF-seeklogo.com.png" alt="DaVinci Resolve" width="48" height="48" style="margin:10px;"/>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DaVinci_Resolve_17_logo.svg/1024px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve" width="48" height="48"/>
   </a>
 
   <!-- Adobe Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-plain.svg" alt="Premiere Pro" width="48" height="48" style="margin:10px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro" width="48" height="48"/>
   </a>
+</p>
 
-</div>
 
   <!-- 🛠️ Tech Stack & Tools -->
 
