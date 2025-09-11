@@ -39,8 +39,9 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
 
   <!-- ⚙️ Backend -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin:10px;"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="60" height="60" style="margin:10px;"/>
+</a>
+
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" height="48" style="margin:10px; background:white; padding:6px; border-radius:8px;"/>
   </a>
@@ -53,9 +54,9 @@ I'm a final year B.Tech student in Computer Science and Engineering with a stron
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin:10px;"/>
   </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="Mongoose" width="48" height="48" style="margin:10px;"/>
-  </a>
+  <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose" style="margin:10px;"/>
+</a>
 
   <!-- 🎨 Frontend -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
